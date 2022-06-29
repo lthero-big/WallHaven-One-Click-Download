@@ -18,7 +18,7 @@
 
 ## 安装方法
 
-* 油候安装 上搜索“Wallhaven Download Faster”，作者：Lthero Peter
+* 油候安装页面上搜索“Wallhaven Download Faster”，作者：Lthero Peter
 * 或着直接点击链接下载 https://greasyfork.org/zh-CN/scripts/447172-wallhaven-one-click-download  
 
 
@@ -37,9 +37,7 @@
 
 * 下载的图片名字是wallhaven使用默认的图片名
 * 无任何关于账户信息的代码，请放心使用
-
-​      
-
+   
 
 
 ## 脚本来源
