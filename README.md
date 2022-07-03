@@ -2,7 +2,7 @@
 此脚本实现了：在浏览器的wallhaven页面添加一键下载按钮，可以直接下载原图，无需再点击到壁纸具体页面，再点击右键保存。
 脚本方便了想经过自己筛选后再快速下载的用户
  
-另外，推荐下另一个项目，wallhaven壁纸批量下载工具：https://github.com/lthero-big/Wallhaven-Batch-Downloader，支持快速大量的下载壁纸
+另外，推荐下另一个项目，wallhaven壁纸批量下载工具：https://github.com/lthero-big/Wallhaven-Batch-Downloader  ,支持快速大量的下载壁纸
 
 
 
