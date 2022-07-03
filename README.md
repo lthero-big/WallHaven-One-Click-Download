@@ -19,8 +19,7 @@
 
 ## 安装方法
 
-* 油候安装页面上搜索“Wallhaven Download Faster”，作者：Lthero Peter
-* 或着直接点击链接下载 https://greasyfork.org/zh-CN/scripts/447172-wallhaven-one-click-download  
+* 油候安装链接： https://greasyfork.org/zh-CN/scripts/447172-wallhaven-one-click-download  
 
 
 
