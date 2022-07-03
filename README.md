@@ -1,6 +1,6 @@
 # WallHaven-One-Click-Download
-在wallhaven浏览页面添加下载按钮，可以直接下载原图，无需再点击到壁纸具体页面，再点击右键保存
-
+此脚本实现了：在wallhaven浏览页面添加下载按钮，可以直接下载原图，无需再点击到壁纸具体页面，再点击右键保存
+ 
 另外，推荐下另一个项目，wallhaven壁纸批量下载工具：https://github.com/lthero-big/Wallhaven-Batch-Downloader
 
 
